@@ -1,9 +1,4 @@
-   body {
-      font-family: Arial, sans-serif;
-      background-color: white;
-      margin: 0;
-      padding: 0;
-    }
+ 
    
     p{
         font-size: 20px;
@@ -16,6 +11,8 @@
     }
 
     /* Left Side */
+
+    
     .left {
       width: 50%;
       padding: 20px;
@@ -31,7 +28,9 @@
       max-width: 100%;
     }
 
-    /* Right Side (Form) */
+    /* Right Side */
+
+
     .form-box {
       width: 350px;
       background: #fff;
